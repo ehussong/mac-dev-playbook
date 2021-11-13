@@ -84,6 +84,7 @@ homebrew_cask_apps:
   - ultimate
   - fantastical
   - freedom
+  - github
   - gog-galaxy
   - hazel
   - hook
