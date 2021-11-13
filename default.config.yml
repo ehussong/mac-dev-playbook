@@ -40,6 +40,7 @@ homebrew_installed_packages:
   - bash-completion
   - git
   - github/gh/gh
+  - gnu-tar
   - libevent
   - sqlite
   - ssh-copy-id
@@ -62,10 +63,62 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - firefox
   - handbrake
-  - slack
   - atom
   - calibre
   - iridium
+  - parallels
+  - parallels-toolbox
+  - 1password
+  - affinity-photo
+  - airtable
+  - alfred
+  - balenaetcher
+  - banktivity
+  - bartender
+  - cheatsheet
+  - daisydisk
+  - deepl
+  - devonthink
+  - devonagent
+  - discord
+  - ultimate
+  - fantastical
+  - freedom
+  - gog-galaxy
+  - hazel
+  - hook
+  - istat-menus
+  - keyboard-maestro
+  - kobo
+  - krisp
+  - league-of-legends
+  - little-snitch
+  - microsoft-teams
+  - mullvadvpn
+  - muzzle
+  - musicbrainz-picard
+  - openaudible
+  - parsec
+  - plexamp
+  - pocket-casts
+  - prowritingaid
+  - rescuetime
+  - roon
+  - royal-tsx
+  - scrivener
+  - signal
+  - skim
+  - quassel-client
+  - soundsource
+  - steam
+  - teamviewer
+  - the-unarchiver
+  - thebrain
+  - tidal
+  - transmission
+  - vivaldi
+  - zenmap
+  - zoom
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
