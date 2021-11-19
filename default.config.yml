@@ -63,7 +63,6 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - firefox
   - handbrake
-  - atom
   - calibre
   - iridium
   - parallels
@@ -118,6 +117,7 @@ homebrew_cask_apps:
   - thebrain
   - tidal
   - transmission
+  - visual-studio-code
   - vivaldi
   - zenmap
   - zoom
