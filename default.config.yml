@@ -82,13 +82,13 @@ homebrew_cask_apps:
   - discord
   - element
   - ultimate
-  - fantastical
   - freedom
   - github
   - gog-galaxy
   - hazel
   - hook
   - istat-menus
+  - itsycal
   - keyboard-maestro
   - kobo
   - krisp
