@@ -72,7 +72,6 @@ homebrew_cask_apps:
   - airtable
   - alfred
   - balenaetcher
-  - banktivity
   - bartender
   - cheatsheet
   - daisydisk
@@ -86,6 +85,7 @@ homebrew_cask_apps:
   - github
   - gog-galaxy
   - hazel
+  - historyhound
   - hook
   - istat-menus
   - keyboard-maestro
@@ -93,9 +93,9 @@ homebrew_cask_apps:
   - krisp
   - league-of-legends
   - little-snitch
+  - logseq
   - microsoft-teams
   - mullvadvpn
-  - muzzle
   - musicbrainz-picard
   - openaudible
   - parsec

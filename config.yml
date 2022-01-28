@@ -1,0 +1,79 @@
+homebrew_installed_packages:
+  - autoconf
+  - bash-completion
+  - git
+  - github/gh/gh
+  - gnu-tar
+  - libevent
+  - sqlite
+  - ssh-copy-id
+  - readline
+  - openssl
+  - wget
+  - zsh-history-substring-search
+  - SoMuchForSubtlety/tap/f1viewer
+  - mas
+  - mpv
+  - tldr
+
+mas_installed_apps:
+  - { id: 1435957248, name: "Drafts"}
+  - { id: 904280696, name: "Things"}
+  - { id: 462058435, name: "Microsoft Excel"}
+  - { id: 462054704, name: "Microsoft Word"}
+  - { id: 462062816, name: "Microsoft PowerPoint"}
+  - { id: 1362059613, name: "SkySafari 6 Pro"}
+  - { id: 1529448980, name: "Reeder"}
+  - { id: 975937182, name: "Fantastical"}
+  - { id: 1290358394, name: "Cardhop"}
+  - { id: 403504866, name: "Pcalc"}
+  - { id: 290986013, name: "Deliveries"}
+  - { id: 441258766, name: "Magnet"}
+  - { id: 425424353, name: "TheUnarchiver"}
+  - { id: 1262957439, name: "Textual IRC Client"}
+  - { id: 1303222628, name: "Paprika Recipe Manager 3"}
+  - { id: 485812721, name: "Tweetdeck"}
+  - { id: 1334590352, name: "Webull Desktop"}
+  - { id: 1458866808, name: "MacFamilyTree 9"}
+  - { id: 803453959, name: "Slack"}
+  - { id: 1484348796, name: "Endel"}
+  - { id: 1361807388, name: "Audrey Grant's Better Bridge"}
+  - { id: 1480779512, name: "Banktivity"}
+  - { id: 629542227, name: "Tesuji - A Skill Of Go"}
+
+pip_packages:
+# soco is "Sonos Controller" from https://github.com/SoCo/SoCo
+  - name: soco
+
+configure_dock: true
+dockitems_remove:
+  - Launchpad
+  - TV
+  - Maps
+  - Photos
+  - FaceTime
+  - Calendar
+  - Contacts
+  - Reminders
+  - Notes
+  - Music
+  - Podcasts
+  - Safari
+  - News
+  - App Store
+dockitems_persist:
+  - name: "Mail"
+    path: "/Applications/Mail.app/"
+    pos: 2
+  - name: "Firefox"
+    path: "/Applications/Firefox.app/"
+    pos: 3
+  - name: "DEVONthink 3"
+    path: "/Applications/DEVONthink 3.app/"
+    pos: 4
+  - name: "Signal"
+    path: "/Applications/Signal.app/"
+    pos: 5
+  - name: "Roam Research"
+    path: "/Applications/Roam Research.app/"
+    pos: 6  
