@@ -88,7 +88,6 @@ homebrew_cask_apps:
   - hazel
   - hook
   - istat-menus
-  - itsycal
   - keyboard-maestro
   - kobo
   - krisp
@@ -103,12 +102,12 @@ homebrew_cask_apps:
   - plexamp
   - pocket-casts
   - prowritingaid
+  - remember-the-milk
   - rescuetime
   - roon
   - royal-tsx
   - scrivener
   - signal
-  - skim
   - quassel-client
   - soundsource
   - steam
