@@ -24,8 +24,6 @@ mas_installed_apps:
   - { id: 462062816, name: "Microsoft PowerPoint"}
   - { id: 1362059613, name: "SkySafari 6 Pro"}
   - { id: 1529448980, name: "Reeder"}
-  - { id: 975937182, name: "Fantastical"}
-  - { id: 1290358394, name: "Cardhop"}
   - { id: 403504866, name: "Pcalc"}
   - { id: 290986013, name: "Deliveries"}
   - { id: 441258766, name: "Magnet"}
@@ -40,6 +38,7 @@ mas_installed_apps:
   - { id: 1361807388, name: "Audrey Grant's Better Bridge"}
   - { id: 1480779512, name: "Banktivity"}
   - { id: 629542227, name: "Tesuji - A Skill Of Go"}
+  - { id: 1470584107, name: "Dato"} # Fantastical Replacement
 
 pip_packages:
 # soco is "Sonos Controller" from https://github.com/SoCo/SoCo
