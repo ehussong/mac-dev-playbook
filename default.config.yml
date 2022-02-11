@@ -89,12 +89,13 @@ homebrew_cask_apps:
   - keyboard-maestro
   - kobo
   - krisp
-  - league-of-legends
   - little-snitch
   - logseq
   - microsoft-teams
+  - micro-snitch
   - mullvadvpn
   - musicbrainz-picard
+  - muzzle
   - openaudible
   - parsec
   - plexamp
@@ -106,7 +107,6 @@ homebrew_cask_apps:
   - royal-tsx
   - scrivener
   - signal
-  - quassel-client
   - soundsource
   - steam
   - teamviewer
