@@ -115,6 +115,7 @@ homebrew_cask_apps:
   - thebrain
   - tidal
   - transmission
+  - youtube-dl
   - visual-studio-code
   - vivaldi
   - zenmap
