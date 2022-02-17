@@ -58,6 +58,9 @@ dockitems_remove:
   - Podcasts
   - Safari
   - News
+  - Keynote
+  - Numbers
+  - Pages
   - App Store
 dockitems_persist:
   - name: "Mail"
