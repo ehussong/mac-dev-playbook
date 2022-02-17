@@ -15,6 +15,7 @@ homebrew_installed_packages:
   - mas
   - mpv
   - tldr
+  - youtube-dl
 
 mas_installed_apps:
   - { id: 1435957248, name: "Drafts"}
