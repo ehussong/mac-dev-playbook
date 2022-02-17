@@ -25,6 +25,7 @@ mas_installed_apps:
   - { id: 1362059613, name: "SkySafari 6 Pro"}
   - { id: 403504866, name: "Pcalc"}
   - { id: 290986013, name: "Deliveries"}
+  - { id: 975937182, name: "Fantastical"}
   - { id: 441258766, name: "Magnet"}
   - { id: 425424353, name: "TheUnarchiver"}
   - { id: 1303222628, name: "Paprika Recipe Manager 3"}
