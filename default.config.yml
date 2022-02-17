@@ -77,7 +77,6 @@ homebrew_cask_apps:
   - devonthink
   - devonagent
   - discord
-  - element
   - ultimate
   - freedom
   - github
@@ -91,7 +90,6 @@ homebrew_cask_apps:
   - krisp
   - little-snitch
   - linearmouse
-  - logseq
   - microsoft-teams
   - micro-snitch
   - mullvadvpn
