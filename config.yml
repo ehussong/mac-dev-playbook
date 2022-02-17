@@ -37,7 +37,7 @@ mas_installed_apps:
   - { id: 1361807388, name: "Audrey Grant's Better Bridge"}
   - { id: 1480779512, name: "Banktivity"}
   - { id: 629542227, name: "Tesuji - A Skill Of Go"}
-  - { id: 1470584107, name: "Dato"} # Fantastical Replacement
+  # - { id: 1470584107, name: "Dato"} # Fantastical Replacement
 
 pip_packages:
 # soco is "Sonos Controller" from https://github.com/SoCo/SoCo
