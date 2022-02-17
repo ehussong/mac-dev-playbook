@@ -63,15 +63,24 @@ dockitems_persist:
   - name: "Mail"
     path: "/Applications/Mail.app/"
     pos: 2
+    name: "Messages"
+    path: "/Applications/Messages.app/"
+    pos: 3
   - name: "Firefox"
     path: "/Applications/Firefox.app/"
-    pos: 3
-  - name: "DEVONthink 3"
-    path: "/Applications/DEVONthink 3.app/"
     pos: 4
   - name: "Signal"
     path: "/Applications/Signal.app/"
     pos: 5
+  - name: "DEVONthink 3"
+    path: "/Applications/DEVONthink 3.app/"
+    pos: 6
+  - name: "Things"
+    path: "/Applications/Things.app/"
+    pos: 7
   - name: "Roam Research"
     path: "/Applications/Roam Research.app/"
-    pos: 6  
+    pos: 8  
+  - name: "Roon"
+    path: "/Applications/Roon.app/"
+    pos: 9
